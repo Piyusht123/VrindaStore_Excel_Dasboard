@@ -41,12 +41,6 @@ This project focuses on analyzing **Sales Performance** and **Order Trends** for
     - Pie Charts  
     - Line Graphs for Monthly Trends  
 
----
-
-## 💻 **How to Use**  
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/Piyusht123/VrindaStore_Excel_Dasboard.git
 
 
 
